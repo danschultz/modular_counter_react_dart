@@ -285,5 +285,6 @@ As previously mentioned, we need to modify the states of a counter in the counte
 
 ## Running
 
+* Run `pub get`
 * Run `pub serve`
 * Open `http://localhost:8080` in your browser.
